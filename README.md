@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/67951179/231264820-71aae367-1ccc-4c3a-861e-9b4f0acc7bab.gif)
 <h1 align="center">Hi 👋, I'm BLMx</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">My name is Omar and I'm a full stack website developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
